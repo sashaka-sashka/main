@@ -1,0 +1,30 @@
+C:\Users\Honor\Desktop\C#\test progr\bin\Debug\net6.0\test progr.exe
+C:\Users\Honor\Desktop\C#\test progr\bin\Debug\net6.0\test progr.deps.json
+C:\Users\Honor\Desktop\C#\test progr\bin\Debug\net6.0\test progr.runtimeconfig.json
+C:\Users\Honor\Desktop\C#\test progr\bin\Debug\net6.0\test progr.dll
+C:\Users\Honor\Desktop\C#\test progr\bin\Debug\net6.0\test progr.pdb
+C:\Users\Honor\Desktop\C#\test progr\obj\Debug\net6.0\test progr.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\C#\test progr\obj\Debug\net6.0\test progr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\C#\test progr\obj\Debug\net6.0\test progr.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\C#\test progr\obj\Debug\net6.0\test progr.AssemblyInfo.cs
+C:\Users\Honor\Desktop\C#\test progr\obj\Debug\net6.0\test progr.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\C#\test progr\obj\Debug\net6.0\test progr.dll
+C:\Users\Honor\Desktop\C#\test progr\obj\Debug\net6.0\refint\test progr.dll
+C:\Users\Honor\Desktop\C#\test progr\obj\Debug\net6.0\test progr.pdb
+C:\Users\Honor\Desktop\C#\test progr\obj\Debug\net6.0\test progr.genruntimeconfig.cache
+C:\Users\Honor\Desktop\C#\test progr\obj\Debug\net6.0\ref\test progr.dll
+C:\Users\Honor\Desktop\C#\Exemple_1\bin\Debug\net6.0\test progr.exe
+C:\Users\Honor\Desktop\C#\Exemple_1\bin\Debug\net6.0\test progr.deps.json
+C:\Users\Honor\Desktop\C#\Exemple_1\bin\Debug\net6.0\test progr.runtimeconfig.json
+C:\Users\Honor\Desktop\C#\Exemple_1\bin\Debug\net6.0\test progr.dll
+C:\Users\Honor\Desktop\C#\Exemple_1\bin\Debug\net6.0\test progr.pdb
+C:\Users\Honor\Desktop\C#\Exemple_1\obj\Debug\net6.0\test progr.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\C#\Exemple_1\obj\Debug\net6.0\test progr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\C#\Exemple_1\obj\Debug\net6.0\test progr.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\C#\Exemple_1\obj\Debug\net6.0\test progr.AssemblyInfo.cs
+C:\Users\Honor\Desktop\C#\Exemple_1\obj\Debug\net6.0\test progr.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\C#\Exemple_1\obj\Debug\net6.0\test progr.dll
+C:\Users\Honor\Desktop\C#\Exemple_1\obj\Debug\net6.0\refint\test progr.dll
+C:\Users\Honor\Desktop\C#\Exemple_1\obj\Debug\net6.0\test progr.pdb
+C:\Users\Honor\Desktop\C#\Exemple_1\obj\Debug\net6.0\test progr.genruntimeconfig.cache
+C:\Users\Honor\Desktop\C#\Exemple_1\obj\Debug\net6.0\ref\test progr.dll
