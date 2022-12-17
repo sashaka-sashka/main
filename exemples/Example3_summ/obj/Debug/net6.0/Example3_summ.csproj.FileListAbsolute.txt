@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\bin\Debug\net6.0\Example3_summ.exe
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\bin\Debug\net6.0\Example3_summ.deps.json
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\bin\Debug\net6.0\Example3_summ.runtimeconfig.json
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\bin\Debug\net6.0\Example3_summ.dll
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\bin\Debug\net6.0\Example3_summ.pdb
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\obj\Debug\net6.0\Example3_summ.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\obj\Debug\net6.0\Example3_summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\obj\Debug\net6.0\Example3_summ.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\obj\Debug\net6.0\Example3_summ.AssemblyInfo.cs
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\obj\Debug\net6.0\Example3_summ.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\obj\Debug\net6.0\Example3_summ.dll
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\obj\Debug\net6.0\refint\Example3_summ.dll
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\obj\Debug\net6.0\Example3_summ.pdb
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\obj\Debug\net6.0\Example3_summ.genruntimeconfig.cache
+C:\Users\Honor\Desktop\C#\exemples\Example3_summ\obj\Debug\net6.0\ref\Example3_summ.dll
